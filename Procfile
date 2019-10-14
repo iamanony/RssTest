@@ -1,1 +1,1 @@
-worker : python3 telegramRSSbot.py
+worker: python3 telegramRSSbot.py
